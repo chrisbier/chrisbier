@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=chrisbier)](https://github.com/chrisbier/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chrisbier&theme=juicyfresh)](https://github.com/chrisbier/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisbier&theme=dark&background=000000)](https://git.io/streak-stats)
 
